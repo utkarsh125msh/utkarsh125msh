@@ -19,7 +19,7 @@ I build backend systems and experiment with AI infrastructure. Currently working
 | Project | What it does | Stack |
 |---|---|---|
 | [LocalGPT Control Plane](https://github.com/utkarsh125msh/localgpt-control-plane) | Air-gapped AI inference — zero data leaves your network | Spring Boot, Ollama, React, Docker |
-| [Quiz Platform](https://github.com/utkarsh125msh/quiz-web-application) | Full-stack quiz app with AI question generation | Spring Boot, React, PostgreSQL, Gemini API |
+| [Quiz Platform](https://github.com/utkarsh125msh/quizApp2024-frontend) | Full-stack quiz app with AI question generation | Spring Boot, React, PostgreSQL, Gemini API |
 | [Finance Access Control API](https://github.com/utkarsh125msh/finance-access-control-api) | 3-tier RBAC, financial CRUD, dashboard analytics | Spring Boot, Spring Security, JPA |
 
 ---
